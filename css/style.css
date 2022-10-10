@@ -1,0 +1,16 @@
+.eb-background-img{
+background-image: url(https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif);
+background-repeat: no-repeat;
+background-size: cover;
+height: 100vh;
+color: white;
+}
+
+.rounded-pill{
+  background-color: rgba(1, 0, 0, 0.852);
+}
+
+#accesso-effettuato{
+  font-family: 'Times New Roman', Times, serif;
+  color: red;
+}
